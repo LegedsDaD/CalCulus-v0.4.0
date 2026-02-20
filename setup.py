@@ -14,7 +14,7 @@ ext_modules = [
 ]
 
 setup(
-    name="calculus",
+    name="calculus-cpp",
     version="0.4.0",
     author="LegedsDaD",
     description="High-performance scientific computing with Auto-Differentiation",
@@ -31,3 +31,4 @@ setup(
         "Operating System :: OS Independent",
     ],
 )
+
